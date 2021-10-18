@@ -1,0 +1,10 @@
+.bloop/
+.metals/
+.bsp/
+
+target/
+project/*
+!project/build.properties
+!project/plugins.sbt
+
+.vscode/
